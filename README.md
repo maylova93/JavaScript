@@ -1,1 +1,1 @@
-https://github.com/maylova93/fantastic-octo-goggles
+https://maylova93.github.io/fantastic-octo-goggles/
